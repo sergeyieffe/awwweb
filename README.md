@@ -2,7 +2,7 @@
   
 > Master resources for digital designers in the web industry.
 
-**Visit my [website](https://www.sergeyioffe.com) and [blog](https://sergeyioffe.blogspot.com)  
+*Visit my [website](https://www.sergeyioffe.com) and [blog](https://sergeyioffe.blogspot.com)  
 
 ## Contents
 
