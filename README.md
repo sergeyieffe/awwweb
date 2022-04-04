@@ -1,8 +1,8 @@
-# web-design-mastery
+# Web design mastery 🖥️
   
 > Master resources for digital designers in the web industry.
 
-**Visit my [website](https://www.sergeyioffe.com) and [blog](https://sergeyioffe.blogspot.com)
+**Visit my [website](https://www.sergeyioffe.com) and [blog](https://sergeyioffe.blogspot.com)  
 
 ## Contents
 
@@ -18,7 +18,7 @@
 - [Tutorials](#tutorials)
 - [Books](#books)
 - [Productivity](#productivity)
-- [Slack Teams](#slack-teams)
+- [Slack Teams](#slack-teams)  
 
 ## Blog & News
 * [Web Designer News](http://webdesignernews.com): The best curated stories for designers.
@@ -32,7 +32,7 @@
 * [Marvel Blog](http://blog.marvelapp.com): The latest news, resources and thoughts from the Marvel team.
 * [Reddit Web Design](https://www.reddit.com/r/web_design/): A place for designers to contribute useful posts, ask questions or engage in discussion.
 * [Morning Reader](https://morningreader.com): Breaking tech news.
-* [Google design](https://www.youtube.com/channel/UClKO7be7O9cUGL94PHnAeOA): Youtube channel featuring videos for designers about Google design.
+* [Google design](https://www.youtube.com/channel/UClKO7be7O9cUGL94PHnAeOA): Youtube channel featuring videos for designers about Google design.  
 
 ## Inspiration
 * [Behance](http://behance.net): Showcase & discover creative work.
@@ -43,7 +43,7 @@
 * [Product Hunt](http://producthunt.com): The place to discover your next favorite thing.
 * [UI Movement](https://uimovement.com): The best UI design inspiration, every day.
 * [Pttrns](http://pttrns.com/): The finest collection of design patterns, resources and inspiration.
-* [Httpster](https://httpster.net/): Top-notch web design in hip style.
+* [Httpster](https://httpster.net/): Top-notch web design in hip style.  
 
 ## Colors
 * [Adobe Color CC](https://color.adobe.com/): Create color schemes with the color wheel or browse thousands of color combinations from the Kuler community.
@@ -54,7 +54,7 @@
 * [Lol Colors](http://www.lolcolors.com/): Curated color palette inspiration.
 * [Paletton](http://paletton.com): A designer tool for creating color combinations that work together well.
 * [Gradients.io](http://www.gradients.io/): Curated gradients for designers & developers.
-* [UI Gradients](http://uigradients.com/): Beautiful color gradients.
+* [UI Gradients](http://uigradients.com/): Beautiful color gradients.  
 
 ## Typography
 * [Google Web Fonts](http://fonts.google.com): Offering an intuitive and robust directory of open source designer web fonts.
@@ -64,7 +64,7 @@
 * [Type Scale](http://type-scale.com/): Preview and choose the right type scale for your project.
 * [WhatTheFont](https://www.myfonts.com/WhatTheFont/): Seen a font in an image and want to know what it is? WhatTheFont will find the closest match.
 * [Typewolf](https://www.typewolf.com/): Comprehensive web typography info, suggestions for font alternatives, and links to usage in the wild.
-* [Typ.io](http://typ.io/): Typography inspiration from real websites.
+* [Typ.io](http://typ.io/): Typography inspiration from real websites.  
 
 ## Icons
 * [Font Awesome](http://fontawesome.com): The iconic font and CSS toolkit.
@@ -76,7 +76,7 @@
 * [Vecteezy](http://vecteezy.com): A collection of free vector art, vector graphics, illustrator backgrounds, etc.
 * [Material Icons](https://material.io/icons/): Free to use material design icons from Google.
 * [Ionicons](http://ionicons.com/): The premium icon font for Ionic Framework.
-* [Emojipedia](https://emojipedia.org/): All emojis in one place.
+* [Emojipedia](https://emojipedia.org/): All emojis in one place.  
 
 ## Images
 * [Pexels](https://pexels.com): Best free stock photos on the web.
@@ -84,14 +84,14 @@
 * [Pixabay](https://pixabay.com/): Quality photos and illustrations free for commercial use.
 * [Lorem Picsum](https://picsum.photos/): The Lorem Ipsum for photos.
 * [Flickr](https://www.flickr.com): The home for all your photos.
-* [Google Photos](https://www.google.com/photos/about/): The easiest web place to keep photos and images.
+* [Google Photos](https://www.google.com/photos/about/): The easiest web place to keep photos and images.  
 
 ## Guidelines
 * [iOS Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/): Offers everything you need to design beautiful, engaging iOS apps.
 * [Google Material Design](https://material.google.com/): A close look at the design, components & resources for Google's brand.
 * [Laws of UX](https://lawsofux.com/): A collection of the maxims and principles that designers can consider when building user interfaces.
 * [Ultimate Guide](https://www.moveoapps.com/ultimate-guide-to-mobile-app-design-principles): The ultimate guide to mobile app design principles that make your app shine.
-* [GoodUI](http://www.goodui.org/): 5 Ways You Can Get A Better UI.
+* [GoodUI](http://www.goodui.org/): 5 Ways You Can Get A Better UI.  
 
 ## Design Tools
 * [Sketch](http://sketchapp.com): A lightweight program for digital design for Mac.
@@ -99,7 +99,7 @@
 * [Adobe XD](https://www.adobe.com/products/experience-design.html): Prototyping & wireframing Tool.
 * [inVision Studio](https://www.invisionapp.com/studio): Rapid prototyping, animation, built-in design systems, and collaboration.
 * [Canva](http://canva.com): Amazingly simple graphic design software.
-* [Framer X](https://framer.com/): Interaction Design and UX design software.
+* [Framer X](https://framer.com/): Interaction Design and UX design software.  
 
 ## Prototype Tools
 * [Zeplin](https://zeplin.io/): A great collaboration tool between designers and developers.
@@ -108,20 +108,20 @@
 * [Justinmind](http://justinmind.com): Prototype faster, communicate better, for web and mobile apps.
 * [Marvel App](https://marvelapp.com/): Free mobile & web prototyping for designers.
 * [Atomic.io](https://atomic.io/): Free in Browser interactive design Tool.
-* [Flinto](https://www.flinto.com/):  App to create interactive and animated prototypes of designs.
+* [Flinto](https://www.flinto.com/):  App to create interactive and animated prototypes of designs.  
 
 ## Tutorials
 * [Treehouse](https://teamtreehouse.com/tracks/web-design): Brings affordable, technology education to people everywhere.
 * [Tuts Plus Web Design Tutorials](http://webdesign.tutsplus.com/): Free web design and development tutorials.
 * [Springboard](https://www.springboard.com): Personalized approach, designed to help you achieve your goals and advance your career.
 * [Learn Sketch](https://www.sketchapp.com/learn/): Short videos and compiled invaluable resources to help you get started!
-* [Adobe XD Guide](https://www.xdguru.com/adobe-xd-guide/): A 12,000-words-long comprehensive guide for XD beginners and current users. 
+* [Adobe XD Guide](https://www.xdguru.com/adobe-xd-guide/): A 12,000-words-long comprehensive guide for XD beginners and current users.  
 
 ## Books
 * [Web design playground](https://www.manning.com/books/web-design-playground/): A step by step guide from writing your first line of HTML to creating interesting, attractive web pages.
 * [Don't make me think](https://www.amazon.com/Dont-Make-Me-Think-Usability/dp/0321344758)
 * [The design of everyday things](https://www.amazon.com/Design-Everyday-Things-Donald-Norman/dp/1452654123)
-* [100 things every designer needs to know about people](https://www.amazon.com/Things-Designer-People-Voices-Matter/dp/0321767535/ref=sr_1_1?s=books&ie=UTF8&qid=1419267906&sr=1-1&keywords=100+Things+Every+Designer+Needs+to+Know?utm_source=CMblog&utm_medium=post&utm_campaign=blog_)
+* [100 things every designer needs to know about people](https://www.amazon.com/Things-Designer-People-Voices-Matter/dp/0321767535/ref=sr_1_1?s=books&ie=UTF8&qid=1419267906&sr=1-1&keywords=100+Things+Every+Designer+Needs+to+Know?utm_source=CMblog&utm_medium=post&utm_campaign=blog_)  
 
 ## Productivity
 * [Pomodoro](http://tomato-timer.com): A cool time management technique for a more productive way to work and study.
@@ -132,13 +132,13 @@
 * [Paste](http://pasteapp.me/): A smart clipboard history manager for Mac.
 * [Sip](http://sipapp.io/): A color picker for Mac.
 * [Timing](https://timingapp.com/): Automatic time and productivity tracking for Mac.
-* [Taskade](https://taskade.com/): Collaborative task lists and outlines for teams.
+* [Taskade](https://taskade.com/): Collaborative task lists and outlines for teams.  
 
 ## Slack Teams
 * [Team Sketch](http://teamsketch.io): A community for Sketch designers powered by Slack
 * [Designer Hangout](https://www.designerhangout.co): A place where UXers from around the world discuss user experience.
 * [Design Talks](https://docs.google.com/forms/d/e/1FAIpQLSeKT_LC8kKTzJ4JjmgVQVpfl24i1qBkjJ7TYyQcNHL7fBQkYQ/viewform?c=0&w=1): A community for UI/UX design, web design, freelancing, design critiques, etc.
-* [TheDesignerShip](http://thedesignership.com/): A community of over 1,500+ designers and founders.
+* [TheDesignerShip](http://thedesignership.com/): A community of over 1,500+ designers and founders.  
 
 ## Info
 * Collected: [Sergey Ioffe](https://www.sergeyioffe.com)
