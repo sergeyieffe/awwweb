@@ -132,7 +132,7 @@
 * [Taskade](https://taskade.com/): Collaborative task lists and outlines for teams.  
 
 ## Info
-* Collected: [Sergey Ioffe](https://www.sergeyioffe.com)
+* Collected: Sergey Ioffe
 * Updated: 2022  
 
 
