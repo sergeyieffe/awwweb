@@ -82,9 +82,7 @@
 * [Pexels](https://pexels.com): Best free stock photos on the web.
 * [Unsplash](http://unsplash.com): Placeholders using a beautiful image gallery in hip style.
 * [Pixabay](https://pixabay.com/): Quality photos and illustrations free for commercial use.
-* [Lorem Picsum](https://picsum.photos/): The Lorem Ipsum for photos.
-* [Flickr](https://www.flickr.com): The home for all your photos.
-* [Google Photos](https://www.google.com/photos/about/): The easiest web place to keep photos and images.  
+* [Lorem Picsum](https://picsum.photos/): The Lorem Ipsum for photos.  
 
 ## Guidelines
 * [iOS Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/): Offers everything you need to design beautiful, engaging iOS apps.
@@ -93,13 +91,13 @@
 * [Ultimate Guide](https://www.moveoapps.com/ultimate-guide-to-mobile-app-design-principles): The ultimate guide to mobile app design principles that make your app shine.
 * [GoodUI](http://www.goodui.org/): 5 Ways You Can Get A Better UI.  
 
-## Design Tools
-* [Sketch](http://sketchapp.com): A lightweight program for digital design for Mac.
+## Design Tools  
 * [Figma](http://figma.com): The collaborative interface design tool.
+* [Sketch](http://sketchapp.com): A lightweight program for digital design for Mac.
 * [Adobe XD](https://www.adobe.com/products/experience-design.html): Prototyping & wireframing Tool.
 * [inVision Studio](https://www.invisionapp.com/studio): Rapid prototyping, animation, built-in design systems, and collaboration.
-* [Canva](http://canva.com): Amazingly simple graphic design software.
 * [Framer X](https://framer.com/): Interaction Design and UX design software.  
+* [Canva](http://canva.com): Amazingly simple graphic design software.  
 
 ## Prototype Tools
 * [Zeplin](https://zeplin.io/): A great collaboration tool between designers and developers.
@@ -114,8 +112,7 @@
 * [Treehouse](https://teamtreehouse.com/tracks/web-design): Brings affordable, technology education to people everywhere.
 * [Tuts Plus Web Design Tutorials](http://webdesign.tutsplus.com/): Free web design and development tutorials.
 * [Springboard](https://www.springboard.com): Personalized approach, designed to help you achieve your goals and advance your career.
-* [Learn Sketch](https://www.sketchapp.com/learn/): Short videos and compiled invaluable resources to help you get started!
-* [Adobe XD Guide](https://www.xdguru.com/adobe-xd-guide/): A 12,000-words-long comprehensive guide for XD beginners and current users.  
+* [Learn Sketch](https://www.sketchapp.com/learn/): Short videos and compiled invaluable resources to help you get started!  
 
 ## Books
 * [Web design playground](https://www.manning.com/books/web-design-playground/): A step by step guide from writing your first line of HTML to creating interesting, attractive web pages.
@@ -133,12 +130,6 @@
 * [Sip](http://sipapp.io/): A color picker for Mac.
 * [Timing](https://timingapp.com/): Automatic time and productivity tracking for Mac.
 * [Taskade](https://taskade.com/): Collaborative task lists and outlines for teams.  
-
-## Slack Teams
-* [Team Sketch](http://teamsketch.io): A community for Sketch designers powered by Slack
-* [Designer Hangout](https://www.designerhangout.co): A place where UXers from around the world discuss user experience.
-* [Design Talks](https://docs.google.com/forms/d/e/1FAIpQLSeKT_LC8kKTzJ4JjmgVQVpfl24i1qBkjJ7TYyQcNHL7fBQkYQ/viewform?c=0&w=1): A community for UI/UX design, web design, freelancing, design critiques, etc.
-* [TheDesignerShip](http://thedesignership.com/): A community of over 1,500+ designers and founders.  
 
 ## Info
 * Collected: [Sergey Ioffe](https://www.sergeyioffe.com)
