@@ -18,7 +18,6 @@
 - [Tutorials](#tutorials)
 - [Books](#books)
 - [Productivity](#productivity)
-- [Slack Teams](#slack-teams)  
 
 ## Blog & News
 * [Web Designer News](http://webdesignernews.com): The best curated stories for designers.
@@ -75,7 +74,6 @@
 * [Freepik](http://freepik.com): Free vectors in different formats.
 * [Vecteezy](http://vecteezy.com): A collection of free vector art, vector graphics, illustrator backgrounds, etc.
 * [Material Icons](https://material.io/icons/): Free to use material design icons from Google.
-* [Ionicons](http://ionicons.com/): The premium icon font for Ionic Framework.
 * [Emojipedia](https://emojipedia.org/): All emojis in one place.  
 
 ## Images
@@ -100,8 +98,8 @@
 * [Canva](http://canva.com): Amazingly simple graphic design software.  
 
 ## Prototype Tools
-* [Zeplin](https://zeplin.io/): A great collaboration tool between designers and developers.
 * [Avocode](https://avocode.com/): A workspace open to all designers and developers.
+* [Zeplin](https://zeplin.io/): A great collaboration tool between designers and developers.
 * [inVision](https://www.invisionapp.com/): The world's leading prototyping, collaboration & workflow platform.
 * [Justinmind](http://justinmind.com): Prototype faster, communicate better, for web and mobile apps.
 * [Marvel App](https://marvelapp.com/): Free mobile & web prototyping for designers.
@@ -121,14 +119,12 @@
 * [100 things every designer needs to know about people](https://www.amazon.com/Things-Designer-People-Voices-Matter/dp/0321767535/ref=sr_1_1?s=books&ie=UTF8&qid=1419267906&sr=1-1&keywords=100+Things+Every+Designer+Needs+to+Know?utm_source=CMblog&utm_medium=post&utm_campaign=blog_)  
 
 ## Productivity
+* [Trello](http://trello.com): Organize and prioritize your projects in a fun, flexible and rewarding way.
+* [Miro](http://miro.com): Visual collaboration platform for teams.
+* [Github](http://github.com): Build software and lead projects together.
 * [Pomodoro](http://tomato-timer.com): A cool time management technique for a more productive way to work and study.
 * [Toggl](http://toggl.com): Time tracker to improve workplace productivity.
-* [Trello](http://trello.com): Organize and prioritize your projects in a fun, flexible and rewarding way.
-* [RescueTime](https://www.rescuetime.com): Helps you understand your daily habits so you can focus and be more productive.
 * [Qbserve](https://qotoqot.com/qbserve/): Automatic time tracking, invoicing, and real-time productivity feedback.
-* [Paste](http://pasteapp.me/): A smart clipboard history manager for Mac.
-* [Sip](http://sipapp.io/): A color picker for Mac.
-* [Timing](https://timingapp.com/): Automatic time and productivity tracking for Mac.
 * [Taskade](https://taskade.com/): Collaborative task lists and outlines for teams.  
 
 ## Info
