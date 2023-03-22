@@ -126,7 +126,7 @@
 * [Taskade](https://taskade.com/): Collaborative task lists and outlines for teams.  
 
 ## Info
-* Collected: Sergey Ioffe
+* Collected: Sergey Ieffe
 * Updated: 2022  
 
 
