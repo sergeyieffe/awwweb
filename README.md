@@ -1,6 +1,6 @@
 # Web design mastery 🖥️
   
-> Master resources for digital designers in the web industry.
+> Master resources for digital designers in the web industry. Collected by Sergey Ieffe.
 
 ## Contents
 
@@ -126,8 +126,8 @@
 * [Taskade](https://taskade.com/): Collaborative task lists and outlines for teams.  
 
 ## Info
-* Collected: Sergey Ieffe
-* Updated: 2022  
+* Former: AltervisionWebDesign
+* Updated: 2023  
 
 
 
